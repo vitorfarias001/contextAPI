@@ -1,3 +1,7 @@
+#Anotações
+Aprendendo sobre context api com o profissional CespDev
+link = https://www.youtube.com/watch?v=H6bCSzxxiNc&t=525s&ab_channel=CespDev
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
